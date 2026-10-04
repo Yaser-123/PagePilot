@@ -89,4 +89,4 @@ Open-weight models are the core of PagePilot. By leveraging **Gemma 3 4B** via O
 
 ## 📜 License
 
-MIT License. See `LICENSE` for details.
+MIT License. See [LICENSE](LICENSE) for details.
