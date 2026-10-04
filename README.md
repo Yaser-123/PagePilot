@@ -3,7 +3,8 @@
   <h1>PagePilot 🚀</h1>
   <p><strong>Your local-first, privacy-focused browser assistant powered by Gemma 3 4B.</strong></p>
   <p>
-    Built for the <a href="https://dev.to/challenges">Hacktoberfest 2026 Weekend Challenge: Build for a Friend</a>
+    Built for the <a href="https://dev.to/challenges">Hacktoberfest 2026 Weekend Challenge: Build for a Friend</a><br/>
+    📖 <strong>Read the full story and development journey on <a href="https://dev.to/yaser-123/from-windows-to-linux-chrome-to-brave-one-missing-feature-one-solution-pagepilot-4d33">DEV.to</a>!</strong>
   </p>
   <p>
     <img src="https://img.shields.io/badge/Powered%20by-Gemma-blue" alt="Powered by Gemma" />
